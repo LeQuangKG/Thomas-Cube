@@ -1,0 +1,60 @@
+﻿body{
+	padding:0;
+	margin:0;
+	background:url(../img/seri/0.jpg);
+	background-repeat:no-repeat;
+}
+.imgDiv{
+	position:absolute; 
+	width:1024px;
+	height:748px;
+	left:0; 
+	top:0
+}
+
+.popup{
+	position:absolute;
+	background:rgba(0,0,0,0.6);
+	width:360px;
+}
+
+.popup1{
+	left: 346px;
+	top: 149px;
+	height:435px;
+}
+
+.popup2{
+	left: 227px; 
+	top: 120px;
+	height:510px;
+}
+
+.popup3{
+	left: 385px; 
+	top: 369px;
+	height:323px;
+}
+
+.black{
+	background: rgba(0,0,0,1); 
+	position:absolute; left:0px; 
+	top:0px; 
+	width:360px; 
+	height:10px;
+}
+
+.text{
+	position:absolute; 
+	left:0px; 
+	top:10px;
+}
+
+.close{
+	position:absolute; 
+	left: 338px; 
+	top: 19px;
+	z-index:4;
+}
+
+
